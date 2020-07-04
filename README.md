@@ -1,4 +1,4 @@
-# proof
+# RESt function 
 simple POST -GET request from http request in nodejs 
-# to run this program please type 
-# node index.js in your command line
+To run this program please type 
+`node index.js ` in your command line.
